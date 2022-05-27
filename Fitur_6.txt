@@ -1,0 +1,3 @@
+Ini fitur 6
+
+Buat branch ke 2
